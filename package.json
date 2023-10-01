@@ -1,0 +1,19 @@
+{
+  "name": "territorialio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "cat",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^26.2.4",
+    "electron-packager": "^17.1.2"
+  },
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
